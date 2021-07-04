@@ -1,0 +1,76 @@
+.orange{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+body{
+    margin: 0;
+}
+.first{
+    width: 50%;
+    padding-left: 30px;
+}
+.one{
+    display: flex;
+    margin-bottom: 10px;
+    margin: 10px 10px;
+    padding: 60px;
+}
+.one img{
+    width: 80%;
+}
+.button{
+   background-image: linear-gradient(orange,red);
+   padding: 15px;
+   text-decoration: none;
+   font-weight: 100px;
+   border-radius: 10px;
+   margin-top: 10px;
+   
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.two{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.second{
+    padding: 50px;
+}
+p{
+    margin-bottom: 30px;
+}
+.three{
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.third{
+    box-shadow: 10px 10px 40px 10px grey;
+    padding: 40px;
+    width:40%;
+    margin: 5% 5%;
+   padding: 25px;
+   border-radius: 10px;
+}
+#border{
+    border-image: linear-gradient(salmon,tomato);
+    border-left: 5px solid;
+    border-image-slice: 1;
+}
+#border1{
+    border-image: linear-gradient(blue,cyan);
+    border-left: 5px solid;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
